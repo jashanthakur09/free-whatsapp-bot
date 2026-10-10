@@ -4,6 +4,6 @@ node_modules/
 .env
 
 # Private Knowledge Base
-knowledge_base_git.txt
+knowledge_base.txt
 
 
