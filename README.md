@@ -86,3 +86,7 @@ node index.js
 This project is open-source and available under the [MIT License](LICENSE).
 All rights reserved. Personal project by Jashan Thakur.
 
+
+
+⚠️ Disclaimer
+This project uses an unofficial automation library (whatsapp-web.js) and interacts with WhatsApp Web via Puppeteer. Use of automated bots violates WhatsApp's Terms of Service. Always test using a secondary number. The creators and contributors are not responsible for any account bans or suspensions.
