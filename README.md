@@ -48,9 +48,9 @@ node index.js
 
 ### 🧠 Knowledge Base Setup
 1. Copy the sample file:
-   - On Windows: `copy knowledge_base_git.example.txt knowledge_base_git.txt`
-   - On Mac/Linux: `cp knowledge_base_git.example.txt knowledge_base_git.txt`
-2. Open `knowledge_base_git.txt` and add your custom questions and answers.
+   - On Windows: `copy knowledge_base_example.txt `
+   - On Mac/Linux: `cp knowledge_base_example.txt`
+2. Open `knowledge_base_example.txt` and add your custom questions and answers.
 
 
 ## 📱 How to Connect Your WhatsApp
